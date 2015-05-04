@@ -1,6 +1,8 @@
 Gonads
 ======
 
+[![wercker status](https://app.wercker.com/status/10cbbdf41f890155e3a79e994b36f8c0/m "wercker status")](https://app.wercker.com/project/bykey/10cbbdf41f890155e3a79e994b36f8c0)
+
 Gonads is a category abstractions library for Go.  Obviously, this is not the
 way of programming in Go, and I doubt it is production ready.
 
